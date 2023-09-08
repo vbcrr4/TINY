@@ -1,0 +1,4 @@
+docker build -t mi_servidor .
+docker run -i mi_servidor
+docker ps -a 
+docker logs (NAME)"eloquent_euclid" -f
